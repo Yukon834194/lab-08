@@ -1,4 +1,5 @@
 package com.example.lab_8
+// Wizard used for the Lab 8 CI and TDD exercises.
 
 class Wizard(val name: String, var mana: Int, var spellPower: Int) {
     fun castSpell(spell: String): Int {
